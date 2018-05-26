@@ -1,7 +1,7 @@
 # HDD-Activity-Agent
 
 This add-on prevents your harddisk from stopping, so your games never get stuck at loading screens because of your hard drive.
----
+
 # SCREENSHOTS
 
 HDD Activity Agent Main Menu and Settings
