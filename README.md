@@ -10,7 +10,7 @@ This add-on prevents your harddisk from stopping, so your games never get stuck 
 
 ## SCREENSHOTS
 
-HDD Activity Agent Main Menu and Settings
+###HDD Activity Agent Main Menu and Settings
 >You can start/stop the agent, set the agent's file writing interval and the location into which the agent will write the file.
 
 ![image](https://4.bp.blogspot.com/-K7P89voWmIc/WwmyU3f5m7I/AAAAAAAAAqA/P-Es5amAnNMbMTV7FvMgrjuBc7_h5ohQwCLcBGAs/s1600/hag_mainmenu_final.gif)
