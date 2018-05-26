@@ -6,7 +6,7 @@ This add-on prevents your harddisk from stopping, so your games never get stuck 
 
 |    VERSIONS    |            CHANGES            |            NOTES            |
 |----------------|-------------------------------|-----------------------------|
-|v1.0.0-beta1    |-First release                 |May contain bugs.            |
+|v1.0.0-beta1    |First release                  |May contain bugs.            |
 
 ## SCREENSHOTS
 
