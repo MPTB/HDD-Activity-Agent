@@ -9,9 +9,9 @@ Describe your problem in a clear and concise manner. Be exact and provide as muc
 
 **Steps of Reproduction:**
 Provide us with clear and concise steps to reproduce the behavior:
-1. Go to "———"
-2. Click on "———"
-3. Scroll down to "———"
+1. Go to "——"
+2. Click on "——"
+3. Scroll down to "——"
 4. The bug lies here.
 
 **Expected behavior:**
