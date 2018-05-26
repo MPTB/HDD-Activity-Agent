@@ -22,11 +22,11 @@ HDD Activity Agent Notification Icon
 ---
 
 HDD Activity Agent Notification Menu
-> This notification gives you shortcuts to;
-
->- show about window
->- show main window
->- show status window
+> This notification gives you shortcuts to:
+>
+>- show the about window
+>- show the main window
+>- show the status window
 >- start/stop the agent
 >- exit the application
 
