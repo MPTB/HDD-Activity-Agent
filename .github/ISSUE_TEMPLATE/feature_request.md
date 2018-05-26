@@ -1,4 +1,9 @@
 ---
+name: Feature request
+about: Suggest an idea for this project
+
+---
+---
 Section: Feature Request
 Description: Help us improve upon the inluded mechanics and/or request new ones.
 
