@@ -1,6 +1,6 @@
 # HDD-Activity-Agent
 
-This add-on prevents your harddisk from stopping, so your games never get stuck at loading screens because of your hard drive.
+This add-on prevents your HDD from stopping, so your games never get stuck at loading screens because of your hard drive.
 
 ## VERSIONS
 
@@ -11,7 +11,7 @@ This add-on prevents your harddisk from stopping, so your games never get stuck 
 ## SCREENSHOTS
 
 ### HDD Activity Agent Main Menu and Settings
->You can start/stop the agent, set the agent's file writing interval, and the location into which the agent will write the file.
+>You can start/stop the agent, set the agent's file-writing interval, and the location into which the agent will write the file.
 
 ![image](https://4.bp.blogspot.com/-K7P89voWmIc/WwmyU3f5m7I/AAAAAAAAAqA/P-Es5amAnNMbMTV7FvMgrjuBc7_h5ohQwCLcBGAs/s1600/hag_mainmenu_final.gif)
 ---
@@ -28,7 +28,7 @@ This add-on prevents your harddisk from stopping, so your games never get stuck 
 >- show the main window
 >- show the status window
 >- start/stop the agent
->- exit the application
+>- exit the program
 
 ![image](https://4.bp.blogspot.com/-_f5tFIVFN7U/WwmyVKyEvCI/AAAAAAAAAqE/NyC5jA3QJ_8640ni620rLIZEnYcwo2vugCLcBGAs/s1600/hag_notificationmenu_final.gif)
 ---
@@ -40,7 +40,7 @@ This add-on prevents your harddisk from stopping, so your games never get stuck 
 ---
 
 ### HDD Activity Agent About Window
->You can learn more information about application and MPTB by this window
+>You can learn more about the agent and MPTB from this window
 
 ![image](https://2.bp.blogspot.com/-ZLW4dk-mJPE/WwmyUvffrJI/AAAAAAAAAp4/KJU2s-6ONm4QUtYZgPJmYkWLi8CKi4wjACLcBGAs/s1600/hag_about_final.gif)
 ---
